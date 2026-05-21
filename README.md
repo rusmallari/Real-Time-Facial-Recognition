@@ -1,1 +1,1 @@
-# Real-Time-Facial-Recognition
+# Facial-Recognition
